@@ -1,8 +1,8 @@
 Dados do aluno
 
 -Primeiro Nome: Paula
--Profissão: Coordenadora de Qualidade
--Cidade: Osasco
+-Profissão: Coordenadora de Qualidade (Analista de testes Senior I)
+-Cidade: Osasco/SP
 -O que faz nas horas vaga: Gosto de ler livros, ouvir músicas, estar com minha família e amigos.
 -Feedback sobre o curso Qualidade de Software: Está agregando muito em minha carreira. 
 -Feedback sobre a plataforma de estudo da EBAC: A plataforma é incrível! Indico a Ebac de olhos fechados pela excelência de entrega e comunicação. 
