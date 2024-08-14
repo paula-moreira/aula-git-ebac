@@ -1,7 +1,7 @@
 Dados do aluno
 
 -Primeiro Nome: Paula
--Profissão: Coordenadora de Qualidade (Analista de testes Senior I)
+-Profissão: Coordenadora de Qualidade (Analista de testes Senior I) - Coordeno uma equipe de três pessoas.
 -Cidade: Osasco/SP
 -O que faz nas horas vaga: Gosto de ler livros, ouvir músicas, estar com minha família e amigos.
 -Feedback sobre o curso Qualidade de Software: Está agregando muito em minha carreira. 
