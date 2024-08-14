@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Paula
+-Profissão: Coordenadora de Qualidade
+-Cidade: Osasco
+-O que faz nas horas vaga: Gosto de ler livros
+-Feedback sobre o curso Qualidade de Software: Está agregando muito em minha carreira. 
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é incrível! Indico a Ebac de olhos fechados pela excelência de entrega e comunicação. 
 
 Obrigado!!!
 
